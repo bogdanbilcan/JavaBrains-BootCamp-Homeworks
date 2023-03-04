@@ -33,8 +33,8 @@ public class JavaVariables {
         System.out.println(stringVar);
 
         // Step 3: Modify the values of the variables and print the updated values
-        intVar ++;
-        longVar --;
+        intVar++;
+        longVar--;
         floatVar = 5;
         doubleVar = 7.7;
         charVar = 'b';
